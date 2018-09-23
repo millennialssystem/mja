@@ -1,0 +1,178 @@
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\csc.exe
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\vbc.exe
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\MyHouse.dll.config
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\MyHouse.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\MyHouse.pdb
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Antlr3.Runtime.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\EntityFramework.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Newtonsoft.Json.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Owin.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Helpers.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Mvc.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Optimization.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Razor.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.WebPages.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\WebGrease.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Helpers.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Mvc.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Optimization.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.Razor.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.WebPages.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Antlr3.Runtime.pdb
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Newtonsoft.Json.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\EntityFramework.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.Razor.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\EntityFramework.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\obj\Debug\MyHouse.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\obj\Debug\MyHouse.dll
+C:\Users\Jhonatan Abreu\documents\visual studio 2015\Projects\MyHouse\MyHouse\obj\Debug\MyHouse.pdb
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\csc.exe
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\vbc.exe
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\VBCSCompiler.exe
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\MyHouse.dll.config
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\MyHouse.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\MyHouse.pdb
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Antlr3.Runtime.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\EntityFramework.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\EntityFramework.SqlServer.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Newtonsoft.Json.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Owin.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Helpers.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Mvc.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Optimization.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Razor.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.WebPages.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.WebPages.Razor.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\WebGrease.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Helpers.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Mvc.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Optimization.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.Razor.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.WebPages.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\System.Web.WebPages.Razor.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Antlr3.Runtime.pdb
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Newtonsoft.Json.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\EntityFramework.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\EntityFramework.SqlServer.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.Razor.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\EntityFramework.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\obj\Debug\MyHouse.csprojAssemblyReference.cache
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\obj\Debug\MyHouse.csproj.CoreCompileInputs.cache
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\obj\Debug\MyHouse.csproj.CopyComplete
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\obj\Debug\MyHouse.dll
+C:\Users\jmanr\source\repos\MyHouse\MyHouse\obj\Debug\MyHouse.pdb
